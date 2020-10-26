@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 Hello its me jayant sah
-=======
-Hello its me jayant sah
->>>>>>> 485fd9a0bb7c048a68fc012ead0d647e44d9b965
